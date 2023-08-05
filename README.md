@@ -32,27 +32,27 @@ This website consists of several sections, there are headers, main(input forms a
 
 In this section we can enter the financial data that we will add. There are several input boxes that we must fill in and one button to submit our data.
 
-![0-form-input](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/76543201-3478-442e-85b0-9248c484dcb9)
+![0-form-input](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/e6888de2-c447-42c3-aae7-78847c83a0ab)
 
 - In the `Type` input box, we are required to choose which financial type we will choose, the options are `Cash In` and `Cash Out`.
 
-![1-type-input](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/37c8e008-ea7f-41dd-9a84-2b435f1090b8)
+![1-type-input](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/2e7de3ec-a132-4865-bdfb-ff9c22dccec5)
 
 - In the `Financial Name` input box, we are required to fill in the financial name that we will add.
 
-![2-financial-input](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/f780c7a6-5980-4306-a471-9ce2ce2b44ca)
+![2-financial-input](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/6a2b07f9-30bb-4757-9550-fff7dc4f6d37)
 
 - In the `Details` input box, we are required to enter a description/detail of the financial name that we enter.
 
-![3-details-input](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/3f4b8a09-6e9b-4405-8680-54f8189d233a)
+![3-details-input](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/dde5f883-a131-419b-893b-1f4ae1d4dd1d)
 
 - In the `Amount` input box we are required to fill in the nominal financial amount that we will add, with numbers.
 
-![4-amount-input](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/0f400d8e-0509-45f8-8658-ea8ed3467cc9)
+![4-amount-input](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/32bdefb3-fc50-400a-883b-9883b3075c76)
 
 - After that there is an `Add to Records` button, which is useful for submitting our data.
 
-![5-add-button](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/36b897cd-d26b-48da-ba16-5a4637d80354)
+![5-add-button](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/f0542c04-09d9-4f02-9492-f12d0cb94ef6)
 
 - But there are things that must be considered, namely all input boxes on the form cannot be empty when submitted. If that happens then we cannot add our financial data.
 
@@ -60,11 +60,11 @@ In this section we can enter the financial data that we will add. There are seve
 
 Before we submit data in the input form section, if we haven't submitted anything, then the results section will not display any data records.
 
-![6-result-empty](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/5f5c5f79-d8d2-4693-9790-01e94f3a9c74)
+![6-result-empty](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/d6ce318d-4ba5-4275-92c8-1241543dc434)
 
 But, after we have successfully submitted our data in the input form section, we can see all the results of our submission in the results section, which is at the bottom after the input form on the website.
 
-![7-result-filled](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/2accbd43-510a-44db-9fc6-eef2f45488cf)
+![7-result-filled](https://github.com/RevoU-FSSE-2/week-7-SuryaFtr/assets/127850712/3d55adb8-a8f9-4b1c-96c9-6b2714e40afd)
 
 *** **`Reminder.` This website is still being built without using a database, so all data records will be lost when the website is refreshed** ***
 
