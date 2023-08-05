@@ -1,0 +1,21 @@
+{
+  "name": "financial-tracker",
+  "version": "1.0.0",
+  "description": "Application to track your financial cash in and cash out amount",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js",
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Surya Faturohman",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
